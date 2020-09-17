@@ -10,6 +10,8 @@
 
 **linkedin:** vladislavluksha
 
+**VK:** <https://vk.com/id196810338>
+
 ## Objective
 
 I am eager to start my career in the web development specialization with the possibility of professional growth

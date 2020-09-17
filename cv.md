@@ -28,6 +28,8 @@ I like to play sports. The main directions are football Workout and Street-lifti
 - experience in Git
 - knowledge of multiple operating systems and browsers
 - background in Selenium
+- understanding the basics of testing &
+software development process
 
 ## Soft skills
 
